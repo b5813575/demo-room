@@ -10,4 +10,4 @@ tour.name = Untitled 2
 ## Media
 
 ### Title
-panorama_7EE302B5_75AF_02E0_41B4_5027FC48869D.label = 100460
+panorama_7ACC4E15_76DF_5746_41CC_9309F2E27B8F.label = 100460
